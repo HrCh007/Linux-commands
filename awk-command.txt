@@ -1,0 +1,9 @@
+1. Print second line of a csv file
+
+	awk 'NR==2 {print $0}' addresses.csv
+
+2. Print 3rd and 5th column of a csv file
+
+	awk -F "," '{ print $3 " " $5}' addresses.csv
+
+

@@ -1,0 +1,4 @@
+Name   English Maths Science
+Hrithik  87     95     95
+Tom      85     79     60
+Hank     98     67     79
