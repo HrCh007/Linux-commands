@@ -1,5 +1,5 @@
 # Linux-commands
-Contains Linux commands for doing various tasks.
+This repository contains Linux commands for doing various tasks.
 
 Aim: To write Linux commands for the following problems:
 
