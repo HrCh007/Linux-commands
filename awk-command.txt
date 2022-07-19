@@ -12,7 +12,7 @@
 
 4. Kill processes running for more than 2 days
 
-	kill -9 $(ps -eo comm,pid,etimes | awk '/^procname/ {if ($3 > 172800) { print $2}}')
+	kill -9 $(ps -eo comm,pid,etimes | awk '{if ($3 > 172800) { print $2}}')
 	
 5. Count the number of lines that are different between two files
 
