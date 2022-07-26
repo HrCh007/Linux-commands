@@ -1,1 +1,0 @@
-The commmand was tested on both the test cases and desired results were produced.
